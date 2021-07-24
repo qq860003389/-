@@ -1,4 +1,14 @@
 # dingyue
+制作永久免费的V2ray+SSR订阅链接，简单到无法想象，小白3分钟学会！trojan，v2ray，SSR，SS，全平台通用！
+
+在线加密编码1：http://tool.oschina.net/encrypt?type=3
+在线加密编码2：http://tool.chinaz.com/tools/base64.aspx
+在线加密编码3：https://www.sojson.com/base64.html
+
+OneDrive官网：https://onedrive.live.com/
+OneDrive直链获取工具：https://onedrive.gimhoy.com/
+
+
 简介
 科学上网的方式在不断的迭代更新从SSR到v2ray再到Trojan和Trojango，其中2020年末最火的要属v2ray分支出来的黑科技Xray，随着Xray的不断更新在2021年winXray也放弃版权把源码贡献到公共领域，今天我们就来一起看看一看这个免费的客户端软件WinXray
 
